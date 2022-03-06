@@ -1,0 +1,11 @@
+inicio
+cadeia sorteio , frase
+inteiro vet[4][4]
+
+leia ( "Escreva uma frase com 12 caracteres")
+
+sorteio = leia
+
+escreva ( sorteio )
+
+fim
